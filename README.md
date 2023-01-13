@@ -14,4 +14,4 @@ Implementation of tuple inclusion dependencies discovery
 
 Solve problems on previous code
 - Previous code uses linebufsize 512, which is not able to process large size of columns.
-- New code uses ifstream
+- New code uses ifstream.
